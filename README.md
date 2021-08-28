@@ -1,2 +1,2 @@
 # mock-console
-Just what it sounds like.
+Just what it sounds like
